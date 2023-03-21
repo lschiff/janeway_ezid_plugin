@@ -41,7 +41,7 @@ or set them only on a per journal basis.
 
 1. Crossref depositor name
 1. Crossref depositor email
-1. Crossref registrant name
+1. Crossref registrant name (this is the EZID campus code for that journal, found here: https://docs.google.com/spreadsheets/d/1BP-_clMt5QL5QHJLmHzyeTNHlAsizXGI6vPZq4FReWc/edit#gid=0)
 1. Article DOI Pattern
 
 To override EZID settings for a particular journal:
